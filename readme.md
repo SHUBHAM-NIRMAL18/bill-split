@@ -1,6 +1,9 @@
 <p align="center">
   <img src="bill.svg" alt="Bill-Split Logo" width="200"/>
 </p>
+
+---
+
 # 💸 Bill-Split Backend
 
 A collaborative expense-sharing and group management backend built with **Django REST Framework**, designed to power applications like **Splitwise**.  
